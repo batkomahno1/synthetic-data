@@ -8,3 +8,8 @@ R. Chen, Q. Xiao, Y. Zhang, and J. Xu, “Differentially Private High-Dimensiona
 ```
 https://www.comp.hkbu.edu.hk/~xujl/Papers/kdd15.pdf
 ```
+
+## Main implementation:
+```
+jtree_refactored_procedural.py
+```
